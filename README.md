@@ -2,8 +2,8 @@
 
 <p align="center">
   <em>Coderr is the backend for a freelance platform, built with **Django** and **Django REST Framework (DRF)**.<br>
-  It provides a fully functional RESTful API that allows user registration, authentication, profile management (business and customer),<br> 
-  offer and order handling, and a review system – all with strict role-based access control.</em>
+  It provides a fully functional RESTful API that allows user registration, authentication,<br>
+  profile management (business and customer), offer and order handling, and a review system – all with strict role-based access control.</em>
   <br>
 </p>
 
